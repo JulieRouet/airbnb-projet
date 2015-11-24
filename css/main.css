@@ -8,7 +8,7 @@ header {
   position: relative;
   width: 100%;
   min-height: auto;
-  background-image: url(../img/header2.jpg);
+  background-image: url(../img/porto.jpg);
   background-position: top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -37,14 +37,20 @@ background-color: rgba(0, 0, 0, 0.2)!important;
 #mode {
   background-color: rgba(255, 255, 255, 0.5)!important;
   margin-top: 50px;
-  
+
 
 }
 
 /*Partie Accueillir un voyageur*/
+/*couleur de fond*/
+section {
+  background-color: #ede7e7;
+
+}
+
 /*positionnement du texte*/
 .voyageur {
-  padding-top: 20px;
+  padding-top: 60px !important;
 }
 
 /*Titre (marge et style)*/
